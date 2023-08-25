@@ -1,6 +1,6 @@
 # README.md
 
-## ido_save.bat v0.1.1
+## ido_save.bat
 
 ### Overview
 
